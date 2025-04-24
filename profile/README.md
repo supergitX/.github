@@ -1,12 +1,21 @@
-## Hi there 👋
-THis is supergit, a suite of AI tools which can be included in any code repository to give ai agent superpower to git workflows
-<!--
+# supergit
 
-**Here are some ideas to get you started:**
+supergit is a suite of AI agents that integrate seamlessly into any codebase and enhance the capabilities of the workflow.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## key features
+
+* Automates code generation and error fixing
+* Ensures high-quality code with automated reviews
+* Facilitates easy testing with auto-generated test cases
+* Creates detailed documentation of the project
+
+
+## agents
+
+* generation agent <!--namansh -->
+* reviewer critique <!--namansh -->
+* reviewer optimizer <!--gouri -->
+* tester agent <!--naveen-->
+* doc-keeper <!--yasir-->
+* sage <!--naveen-->
+
